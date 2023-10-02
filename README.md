@@ -1,4 +1,4 @@
-Here's a README for your Python Discord bot code:
+
 
 # Discord Bot with Audio and Text-to-Speech Functionality
 
